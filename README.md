@@ -1,16 +1,33 @@
-# expense_manager
+# 💸 Expense Manager App
 
-A new Flutter project.
+A simple and efficient personal expense tracking app built using **Flutter**, **Provider**, and **LocalStorage**. This app allows you to add, view, categorize, and tag your expenses with a clean and user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📅 Track expenses by **date**
+- 🏷️ Categorize and tag your expenses
+- 📊 View expenses **by category** or **by tag**
+- ➕ Add, edit, and delete expenses
+- 💾 Data persistence using `localstorage` package
+- 🧠 State management with `Provider`
+- 🧪 Widget testing support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+| Home - By Date | Manage Categories | Manage Tags |
+|----------------|------------------|--------------|
+
+---
+
+## 📦 Packages Used
+
+- [`flutter`](https://flutter.dev/)
+- [`provider`](https://pub.dev/packages/provider)
+- [`localstorage`](https://pub.dev/packages/localstorage)
+
+
+
